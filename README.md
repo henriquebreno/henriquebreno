@@ -53,5 +53,3 @@ I'm passionate about collaborating on exciting projects and contributing to the 
 
 Feel free to explore my repositories and reach out if you're interested in collaborating or discussing potential projects. Let's work together to bring your ideas to life!
 
-Cheers,  
-[Your Name]
